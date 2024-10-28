@@ -11,14 +11,9 @@
   class WhoAmI:
     User = 'BHUMI BHARDWAJ'
     College = "ABES Engineering College "
-    Technology = "🤐"
+    Technology = "😎"
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
-Hobbies = [
-                'Problem Solving',
-   'Chilling',
-         'listening music',
-                'Horror Movies'
-                        ]
+Hobbies = ['Problem Solving','Chilling','listening music','Horror Movies']
 
         def getCity():
                 return Zila_Ghaziabad_India()
