@@ -6,7 +6,7 @@
 
 
   ## Who Am I
- python
+``` python
   class WhoAmI:
     User = 'Bhumi Bhardwaj'
     College = "Abes Engineering College "
@@ -28,9 +28,9 @@ Hobbies = [
         def Achievements():
                Technical_Coordinator():
                    Salaah_The_Mentor_Community
-                
 
-
+```
+        
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumi701&theme=default)
