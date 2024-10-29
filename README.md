@@ -1,19 +1,23 @@
-## Hi there 👋
-![Github Banner](banner.png) 
+![Github Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Bhumi +Bhardwaj;I+Love+Programming;An+Open+Source+Enthusiast;Front+End+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Ravi+Choudhary;I+Love+Programming;An+Open+Source+Enthusiast;Front+End+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
 </p>
 
 
   ## Who Am I
-```python
+ python
   class WhoAmI:
-    User = 'BHUMI BHARDWAJ'
-    College = "ABES Engineering College "
+    User = 'Bhumi Bhardwaj'
+    College = "Abes Engineering College "
     Technology = "😎"
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
-Hobbies = ['Problem Solving','Chilling','listening music','Horror Movies']
+Hobbies = [
+                'Problem Solving',
+   'Chilling',
+         'listening Music',
+                'Horrror Movies'
+                        ]
 
         def getCity():
                 return Zila_Ghaziabad_India()
@@ -24,14 +28,15 @@ Hobbies = ['Problem Solving','Chilling','listening music','Horror Movies']
         def Achievements():
                Technical_Coordinator():
                    Salaah_The_Mentor_Community
-               
-
- 
+                
 
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumi701&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhumi701&theme=vue)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhumi701&theme=nord_bright&)![](https://github-readme-streak-stats.herokuapp.com/?user=Bhumi701&theme=vue&hide_border=true)	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumi701&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhumi701&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhumi701&theme=nord_bright&)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bhumi701i&theme=vue&hide_border=true)	
  <br/>
 </div> 
 
@@ -47,3 +52,4 @@ Hobbies = ['Problem Solving','Chilling','listening music','Horror Movies']
 <a href="https://x.com/bhardwaj_b29358?t=K0d1K6B2tQL9DlCSlSiWFQ&s=09"><img alt="Twitter" title="Bhumi Bhardwaj Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 
 </p>
+       
