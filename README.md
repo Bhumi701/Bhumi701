@@ -31,10 +31,7 @@ Hobbies = ['Problem Solving','Chilling','listening music','Horror Movies']
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumi701&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhumi701&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhumi701&theme=nord_bright&)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhumi701&theme=vue&hide_border=true)	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumi701&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhumi701&theme=vue)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhumi701&theme=nord_bright&)![](https://github-readme-streak-stats.herokuapp.com/?user=Bhumi701&theme=vue&hide_border=true)	
  <br/>
 </div> 
 
